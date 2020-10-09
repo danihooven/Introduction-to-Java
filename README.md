@@ -1,2 +1,2 @@
-# JavaClassProjects
+# Java
 Java tutorials and assignments
