@@ -1,4 +1,4 @@
-# Java
+# Introduction to Java
 
 
 Course Syllabus 
