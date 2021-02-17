@@ -31,17 +31,16 @@ Chapter 3
 Programming exercise 3.11 and 3.12 on page 100. 
 
 Chapter 4 
-Programming 4.20 and 4.21 on page 146 
+Programming 4.20 and 4.21 on page 146. 
 
 Chapter 5 
-Programming exercise 5.12 and 5.14 on page 193 
+Programming exercise 5.12 and 5.14 on page 193. 
 
 Chapter 6
-Programming exercise 6.14 and 6.16 on pages 235 and  
-236 
+Programming exercise 6.14 and 6.16 on pages 235 and 236. 
 
 Chapter 7
-Programming exercise 7.12 and 7.15 on pages 296 
+Programming exercise 7.12 and 7.15 on pages 296. 
 
 Chapter 8
 Programming exercise 8.5 and 8.7 on page 355. 
@@ -56,7 +55,7 @@ Chapter 11
 Programming exercise 11.18 and 11.20 on page 468. 
 
 Chapter 12 
-Programming exercise 12.11 and 12.12 on page 551 
+Programming exercise 12.11 and 12.12 on page 551. 
 
 Chapter 14
-Programming exercise 14.4 and 14.11 on page 637 
+Programming exercise 14.4 and 14.11 on page 637. 
