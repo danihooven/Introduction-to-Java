@@ -1,0 +1,39 @@
+/* RANDOM NUMBER GENERATOR */
+// import java.util.Random;
+
+// class Main{
+//   public static void main(String [] args){
+//     /* create object of class. Class name. Object name. class new. */
+//     Random generator = new Random();
+//     /* use object and create method (limit) */
+//     int x = generator.nextInt(10);
+//     System.outprintln(x);
+//   }
+// }
+
+/* GUESS HIGH LOW */
+import java.util.Random;
+import java.util.Scanner;
+
+class Main{
+  public static void main(String [] args){
+    Scanner input = new Scanner(System.in);
+    /* ask for input immediately before */
+    System.out.println("Enter guess between 0 and 10");
+    /* where computer waits for input */
+    int guess = input.nextInt();
+    Random generator = new Random();
+    /* use object and create method */
+    int x = generator.nextInt(10);
+    System.out.println("Your input is "+ guess);
+    System.out.println("Random number is "+ x);
+    /* common mistake is to use one equal sign. if this happens the value will be assigned to the variable guess. if statement is either true or false. */
+    /* more than one statement requires {}. One statment does not */
+    if (guess==x){
+      System.out.println("Your guess is correct");}
+      /* if guess is not equal. Why use to if statements. Use else instead. */
+    // if (guess !=x)
+    else
+      System.out.println("Your guess is not correct");
+  }
+}
